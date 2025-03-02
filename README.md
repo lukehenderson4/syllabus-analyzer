@@ -32,7 +32,7 @@ cd syllabus-analyzer
 
 2. Create a virtual environment:
 ```bash
-python -m venv venv
+python -m venv venv # On Mac, it may be python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
