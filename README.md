@@ -45,7 +45,7 @@ pip install -r requirements.txt # On Mac, it may be pip3 install -r requirements
 
 1. Start the application:
 ```bash
-streamlit run app.py
+streamlit run app2.py
 ```
 
 2. Open your web browser and go to http://localhost:8501
