@@ -26,7 +26,7 @@ This tool helps students analyze course syllabi, extract assignment information,
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/syllabus-analyzer.git
+git clone https://github.com/lukehenderson4/syllabus-analyzer.git
 cd syllabus-analyzer
 ```
 
