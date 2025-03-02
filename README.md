@@ -99,6 +99,7 @@ For calendar import, iCalendar format (.ics) is supported, which can be exported
 
 Given additional time, this is how I would enhance the product:
 - Use machine learning like spaCy natural language processing to train the model on different types of syllabi so it could better extract information
+- Added functionality to distinguish different reading and writing times for different courses
 - Mobile app integration
 - Progress tracking with notifications
 - Integration with learning management systems (Canvas, Blackboard)
