@@ -2,6 +2,8 @@
 
 This tool helps students analyze course syllabi, extract assignment information, and create optimized study schedules that work around existing commitments.
 
+By Luke Henderson
+
 
 ## Features
 
