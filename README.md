@@ -97,8 +97,8 @@ For calendar import, iCalendar format (.ics) is supported, which can be exported
 
 ## Future Improvements
 
-Planned enhancements:
-- Machine learning for improved assignment extraction
+Given additional time, this is how I would enhance the product:
+- Use machine learning like spaCy natural language processing to train the model on different types of syllabi so it could better extract information
 - Mobile app integration
 - Progress tracking with notifications
 - Integration with learning management systems (Canvas, Blackboard)
