@@ -1,6 +1,6 @@
 # Syllabus Analyzer & Assignment Scheduler
 
-A powerful tool that helps students analyze course syllabi, extract assignment information, and create optimized study schedules that work around existing commitments.
+This tool helps students analyze course syllabi, extract assignment information, and create optimized study schedules that work around existing commitments.
 
 
 ## Features
