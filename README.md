@@ -2,7 +2,6 @@
 
 A powerful tool that helps students analyze course syllabi, extract assignment information, and create optimized study schedules that work around existing commitments.
 
-![Syllabus Analyzer Screenshot](https://i.imgur.com/KJ1MGxx.png)
 
 ## Features
 
